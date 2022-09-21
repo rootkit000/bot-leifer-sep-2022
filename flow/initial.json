@@ -13,7 +13,17 @@
             "me dieron este número",
             "venden a crédito",
             "quisiera saber si venden",
-            "necesito saber"
+            "necesito saber",
+            "precio",
+            "cuanto",
+            "cuanto el netflix",
+            "cuanto tienes el netflix",
+            "cuanto la pantalla",
+            "cuanto tienes la pantalla",
+            "cuanto esta",
+            "cuanto esta el netflix",
+            "net"
+
         ],
         "key": "STEP_1"
     },
